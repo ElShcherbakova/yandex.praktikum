@@ -25,3 +25,4 @@
 - проверка статистических гипотез.
 
 ## Библиотеки
+Pandas, Matplotlib, NumPy, Seaborn, Plotly, Sklearn, SciPy, PyMystem3
