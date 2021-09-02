@@ -23,4 +23,4 @@ Pandas, Matplotlib, NumPy, Seaborn, Plotly, исследовательский �
 ## Статус
 Завершен
 
-** в проекте использована библиотека Plotly, которая не отображается на GitHub. Ссылка с активными графиками:[A/A/B-тест](https://nbviewer.jupyter.org/github/ElShcherbakova/yandex.praktikum/blob/main/AAB-test/A%D0%90B-test.ipynb)
+** в проекте использована библиотека Plotly, которая не отображается на GitHub. Ссылка с активными графиками: [A/A/B-тест](https://nbviewer.jupyter.org/github/ElShcherbakova/yandex.praktikum/blob/main/AAB-test/A%D0%90B-test.ipynb)
